@@ -10,3 +10,4 @@ for number in numbers:
 
 print(podzielne,"\n",potega)
 print("Napis")
+print("Kolejny testowy napis")
