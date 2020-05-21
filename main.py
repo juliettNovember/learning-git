@@ -9,4 +9,4 @@ for number in numbers:
         potega.append(number**3)
 
 print(podzielne,"\n",potega)
-
+print("Napis")
